@@ -1,0 +1,16 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# Segredos e variáveis locais
+.env
+
+# Artefatos Docker e pacotes
+*.tar
+dist/
+build/
